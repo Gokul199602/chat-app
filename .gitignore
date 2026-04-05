@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Specific file
+dummy_server.js
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+
+# Build folders (optional)
+dist/
+build/
